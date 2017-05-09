@@ -1,0 +1,89 @@
+
+.body {
+  min-width: 400px;
+}
+
+
+/*Login*/
+
+.mdl-card {
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#sign-info {
+  color: #00BCD4;
+  font-size: 120%;
+}
+
+#btnSignUp, #btnSignIn {
+  float: right;
+  margin-left: 1rem;
+}
+
+.mdl-button--raised:hover {
+  background-color: rgba(158, 158, 158, 0.54);
+}
+
+.mdl-button--raised:active {
+  background-color: rgba(158, 158, 158, 0.9);
+}
+
+
+/*Login*/
+
+
+/*update*/
+
+#menu_title {
+  margin-left: 15%;
+}
+
+.mdl-layout__container {
+  position: inherit;
+}
+
+#btnSubmit {
+  float: right;
+}
+
+#photo {
+  padding-top: 0px;
+}
+
+
+/*update*/
+
+
+/*profile*/
+
+#user-pic {
+  padding: 0 25%;
+  /*width: 72px;*/
+  box-sizing: border-box;
+}
+
+.demo-avatar {
+  width: 120px;
+  height: 120px;
+  /*padding: 0px;*/
+}
+
+ul {
+  list-style: none;
+  margin: 0px;
+  padding-left: 20px;
+}
+
+ul li {
+  font-family: Roboto;
+  font-size: 120%;
+  font-weight: 300;
+  margin-bottom: 8px;
+  line-height: 24px;
+
+}
+
+
+/*profile*/
